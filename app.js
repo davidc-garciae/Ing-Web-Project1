@@ -118,7 +118,6 @@ async function createPokemonCard(pokemon) {
 }
 
 // Función para cargar y mostrar Pokémon
-// Función para cargar y mostrar Pokémon
 async function loadPokemon(searchTerm = '') {
     try {
         showLoading();
