@@ -1,7 +1,5 @@
 # Pokémon Explorer
 
-<img alt="Pokémon Explorer Logo" src="https://pokeapi.co/static/pokeapi_256.png">
-
 ## Descripción del Proyecto
 
 Pokémon Explorer es una aplicación web interactiva que te permite explorar y buscar información sobre diferentes Pokémon. Utilizando la API pública de PokéAPI, la aplicación muestra tarjetas de Pokémon con sus imágenes oficiales, tipos y colores característicos.
